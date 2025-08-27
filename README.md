@@ -8,7 +8,6 @@ Welcome to a classic game designed to boost your inner peace and sharpen your in
 ## 🌟 About The Game
 
 This project is a simple yet engaging number guessing game written in C. The computer thinks of a random number between 1 and 100, and your challenge is to guess it in the fewest attempts possible. With each guess, the program will guide you, telling you whether your guess is too high or too low.
-
 It's a perfect little puzzle to take a break, reset your focus, and enjoy a moment of simple, creative problem-solving.
 
 ---
