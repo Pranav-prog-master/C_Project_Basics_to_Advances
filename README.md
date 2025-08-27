@@ -25,15 +25,6 @@ It's a perfect little puzzle to take a break, reset your focus, and enjoy a mome
 
 ---
 
-## ✨ Features
-
--   **Dynamic Number Generation**: A different secret number is generated every time you play, thanks to `srand(time(NULL))`.
--   **Interactive Gameplay**: Provides instant feedback to guide the player.
--   **Attempt Counter**: Tracks how many guesses you've made, challenging you to improve with each round.
--   **Lightweight & Portable**: Written in standard C, making it easy to compile and run on almost any system.
-
----
-
 ## 🔧 How to Compile and Run
 
 This project is written in C and can be compiled with any standard C compiler like GCC.
