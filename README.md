@@ -42,11 +42,18 @@ This project is written in C and can be compiled with any standard C compiler li
 Now, you're ready to play! Good luck, and have fun sharpening your mind!
 
 
+---
+
+
 # 🧠 DAY-02 :- Simple Calculator 
 A classic, straightforward console calculator built to demonstrate fundamental programming principles in different languages. This project provides a clean, easy-to-understand implementation of basic arithmetic operations.
 
+---
+
 ## 🌟 About This Project
 This repository contains the source code for a simple command-line calculator. The goal is to perform basic math functions like addition, subtraction, multiplication, and division. It's an excellent project for beginners to understand core programming concepts like user input, control flow, and functions.
+
+---
 
 ## ✨ Features
 User-Friendly Interface: A simple menu-driven system for easy operation.
@@ -57,11 +64,15 @@ Error Handling: Includes basic checks, such as for division by zero.
 
 Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
 
+---
+
 ## 🚀 Versions
 This project is available in three different programming languages:
 
 C Version
 This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
+
+---
 
 ## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
