@@ -56,23 +56,58 @@ This repository contains the source code for a simple command-line calculator. T
 ---
 
 ## ✨ Features
-User-Friendly Interface: A simple menu-driven system for easy operation.
-
-Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-
-Error Handling: Includes basic checks, such as for division by zero.
-
-Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
+- User-Friendly Interface: A simple menu-driven system for easy operation.
+- Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+- Error Handling: Includes basic checks, such as for division by zero.
+- Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
 
 ---
 
 ## 🚀 Versions
 This project is available in three different programming languages:
 
-C Version
+- C Version
 This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
 
 ---
 
 ## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For C: g++ calculator.c -o clock && ./clock
+
+
+---
+
+
+# 🧠 DAY-03 :- Digital Clock Console Application
+A classic and elegant digital clock implemented in the console. This project demonstrates the fundamentals of time handling and continuous updates in three different programming languages: C, C++, and Java.
+
+---
+
+## 🌟 About This Project
+This repository contains a simple yet functional digital clock that displays the current time and date directly in your terminal. The clock updates every second, providing a live feed of the current time. It's an excellent project for understanding time libraries, loops, and cross-platform console manipulation.
+
+---
+
+## ✨ Features
+- Real-Time Display: Shows the current time, updating every second.
+- Date Display: Shows the current date, including the day of the week.
+- Customizable Time Format: Users can choose between 12-hour (AM/PM) and 24-hour formats at the start.
+- Cross-Platform: Designed to run on both Windows and UNIX-like systems (Linux, macOS).
+
+---
+
+## 🚀 Versions
+This project is available in three different programming languages, each showcasing a unique approach:
+
+- C Version
+A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
+
+---
+
+## 🔧 How to Run
+For each version, you will need the appropriate compiler (GCC for C/C++, JDK for Java). You can compile and run the source file from your terminal.
+For C: clock.cpp -o clock && ./clock
+
+
+
