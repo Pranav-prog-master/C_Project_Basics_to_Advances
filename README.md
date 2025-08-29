@@ -66,8 +66,7 @@ This repository contains the source code for a simple command-line calculator. T
 ## 🚀 Versions
 This project is available in three different programming languages:
 
-- C Version
-This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
+C Version : This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
 
 ---
 
@@ -100,8 +99,7 @@ This repository contains a simple yet functional digital clock that displays the
 ## 🚀 Versions
 This project is available in three different programming languages, each showcasing a unique approach:
 
-- C Version
-A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
+C Version : A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
 
 ---
 
