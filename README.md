@@ -113,7 +113,7 @@ For C: clock.cpp -o clock && ./clock
 
 # 🧠 DAY-04: Terminal Progress Bar
 
-A simple yet visually satisfying terminal-based progress bar implemented in **C**, **C++**, and **Java**. This project demonstrates how to update console output dynamically and is perfect for learning about loops, formatting, and time delays across languages.
+A simple yet visually satisfying terminal-based progress bar implemented in **C**. This project demonstrates how to update console output dynamically and is perfect for learning about loops, formatting, and time delays across languages.
 
 ---
 
