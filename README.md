@@ -108,4 +108,37 @@ For each version, you will need the appropriate compiler (GCC for C/C++, JDK for
 For C: clock.cpp -o clock && ./clock
 
 
+---
 
+
+# 🧠 DAY-04: Terminal Progress Bar
+
+A simple yet visually satisfying terminal-based progress bar implemented in **C**, **C++**, and **Java**. This project demonstrates how to update console output dynamically and is perfect for learning about loops, formatting, and time delays across languages.
+
+---
+
+## 🌟 About This Project
+
+This repository contains source code for a basic progress bar that updates in real-time on the terminal. It’s designed to help beginners understand how to manipulate console output and simulate task progress in different programming environments.
+
+---
+
+## ✨ Features
+
+-  Dynamic Console Output: Real-time progress updates using loops and formatted strings  
+-  Adjustable Speed: Delay intervals can be modified to simulate different task durations  
+-  Cross-Language Comparison: See how similar logic is implemented in C, C++, and Java  
+-  Minimal Dependencies: Uses only standard libraries for portability and simplicity  
+
+---
+
+## 🚀 Versions
+
+C Version - Uses `stdio.h` and `unistd.h` for output and timing. Demonstrates procedural logic and formatted printing.
+
+---
+
+## 🔧 How to Run
+
+Refer to the source code files for each language. Below are sample compilation and execution commands:
+For C: gcc progress.c -o progress && ./progress
