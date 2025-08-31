@@ -66,7 +66,7 @@ This repository contains the source code for a simple command-line calculator. T
 ## 🚀 Versions
 This project is available in three different programming languages:
 
-C Version : This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
+**C Version** : This version is built using standard C libraries and focuses on a procedural approach. It's a great example of how to structure a simple application using functions and basic I/O in C.
 
 ---
 
@@ -99,7 +99,7 @@ This repository contains a simple yet functional digital clock that displays the
 ## 🚀 Versions
 This project is available in three different programming languages, each showcasing a unique approach:
 
-C Version : A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
+**C Version** : A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
 
 ---
 
@@ -134,7 +134,7 @@ This repository contains source code for a basic progress bar that updates in re
 
 ## 🚀 Versions
 
-C Version - Uses `stdio.h` and `unistd.h` for output and timing. Demonstrates procedural logic and formatted printing.
+**C Version** - Uses `stdio.h` and `unistd.h` for output and timing. Demonstrates procedural logic and formatted printing.
 
 ---
 
@@ -142,3 +142,42 @@ C Version - Uses `stdio.h` and `unistd.h` for output and timing. Demonstrates pr
 
 Refer to the source code files for each language. Below are sample compilation and execution commands:
 For C: gcc progress.c -o progress && ./progress
+
+
+---
+
+
+# 🧠 DAY-05 :-Console-Based User Management System
+A robust, cross-platform User Management System designed to demonstrate core principles of data handling, security, and user interaction in different programming languages.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a console-based application that allows users to register and log in. It features a secure, in-memory database and a clean, interactive interface. A key feature is the cross-platform password masking, which hides user input for enhanced security on any operating system.
+
+---
+
+## ✨ Features
+- User Registration: Allows new users to create an account.
+- User Login: Authenticates existing users with their credentials.
+- Password Masking: Hides password input for security (e.g., shows * instead of characters).
+- Cross-Platform: The C and C++ versions are designed with conditional compilation to run seamlessly on Windows, macOS, and Linux.
+
+---
+
+## 🚀 Versions
+This project is available in three different programming languages, each showcasing a unique approach to solving the same problem.
+
+**C Version** - A procedural implementation that focuses on efficiency and low-level control. It uses structs to manage user data and platform-specific APIs to handle secure password input, demonstrating a deep understanding of system-level programming.
+
+---
+
+## 🔧 How to Run
+
+Refer to the source code files for each language. Below are sample compilation and execution commands:
+For C: gcc user_management.c -o user_management && ./user_management
+
+
+---
+
+
