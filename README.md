@@ -181,3 +181,35 @@ For C: gcc user_management.c -o user_management && ./user_management
 ---
 
 
+# 🧠 DAY-05 :- Console Bank Management System
+A comprehensive, console-based banking application built to demonstrate fundamental and advanced programming concepts across Java. This project simulates the core functionalities of a bank account management system, focusing on data persistence, user interaction, and robust error handling.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a fully functional Bank Management System. The application allows users to create new bank accounts, deposit money, withdraw funds, and check their account balance. All user data is persistently stored, ensuring that information is saved between sessions. It's an excellent project for showcasing skills in file handling, data structures, and object-oriented programming.
+
+---
+
+## ✨ Features
+- Account Creation: Users can create a new bank account with their name and a unique account number.
+- Deposit & Withdrawal: Perform deposits and withdrawals, with the system updating the account balance accordingly.
+- Balance Inquiry: Check the current balance of any existing account.
+- Persistent Data: All account information is saved to a local file, so data is never lost.
+- Robust Error Handling: The system includes checks for invalid input, insufficient funds, and non-existent accounts.
+
+---
+
+## 🚀 Versions
+This project is available in three powerful languages, each showcasing a different programming paradigm:
+
+**C Version** - This version is built with a procedural approach using standard C libraries. It uses structs to manage account data and stdio.h for binary file operations, demonstrating strong foundational C programming skills.
+
+---
+
+## 🔧 How to Run
+
+Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For C: gcc bank.c -o bank && ./bank
+
+---
