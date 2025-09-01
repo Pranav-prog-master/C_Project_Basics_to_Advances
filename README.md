@@ -147,7 +147,7 @@ For C: gcc progress.c -o progress && ./progress
 ---
 
 
-# 🧠 DAY-05 :-Console-Based User Management System
+# 🧠 DAY-06 :-Console-Based User Management System
 A robust, cross-platform User Management System designed to demonstrate core principles of data handling, security, and user interaction in different programming languages.
 
 ---
