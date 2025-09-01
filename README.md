@@ -147,7 +147,7 @@ For C: gcc progress.c -o progress && ./progress
 ---
 
 
-# 🧠 DAY-06 :-Console-Based User Management System
+# 🧠 DAY-05 :-Console-Based User Management System
 A robust, cross-platform User Management System designed to demonstrate core principles of data handling, security, and user interaction in different programming languages.
 
 ---
@@ -181,7 +181,7 @@ For C: gcc user_management.c -o user_management && ./user_management
 ---
 
 
-# 🧠 DAY-05 :- Console Bank Management System
+# 🧠 DAY-06 :- Console Bank Management System
 A comprehensive, console-based banking application built to demonstrate fundamental and advanced programming concepts across Java. This project simulates the core functionalities of a bank account management system, focusing on data persistence, user interaction, and robust error handling.
 
 ---
