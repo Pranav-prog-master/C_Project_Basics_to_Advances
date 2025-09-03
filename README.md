@@ -247,3 +247,37 @@ For C: gcc sudoku.c -o sudoku && ./sudoku
 
 
 ---
+
+
+# 🧠 DAY-08 :- Tic-Tac-Toe Game
+A classic Tic-Tac-Toe game where you can challenge an AI opponent. This project, available in C, is a perfect demonstration of game loop mechanics, 2D array manipulation, and fundamental AI logic.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a console-based Tic-Tac-Toe game. The goal is to create a fully playable game against a computer opponent with varying difficulty levels. It's an excellent project for showcasing skills in procedural and object-oriented programming, logical thinking, and basic algorithm design.
+
+---
+
+## ✨ Features
+- Interactive Gameplay: Play a full game of Tic-Tac-Toe directly in your console.
+- Intelligent AI Opponent: The computer player uses a strategic algorithm to block wins and secure its own, making it a challenging opponent.
+- Selectable Difficulty: Choose between a standard mode and a "God Mode" where the AI is unbeatable.
+- Clear Console Display: The game board is printed in a clean, easy-to-read format after every turn.
+- Score Tracking: The game keeps track of wins, losses, and draws across multiple rounds.
+
+---
+
+## 🚀 Versions
+This project is available in three languages, each offering a unique perspective on building the same game:
+
+**C Version** -  This version uses a procedural approach with standard C libraries. It relies on functions and a 2D char array to manage the game state, showcasing a clean and efficient C implementation with robust input handling.
+
+---
+
+## 🔧 How to Run
+Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For C: gcc tic-tac-toe.c -o tic-tac-toe && ./tic-tac-toe
+
+
+---
