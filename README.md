@@ -283,7 +283,7 @@ For C: gcc tic-tac-toe.c -o tic-tac-toe && ./tic-tac-toe
 ---
 
 
-# 🧠 DAY-08 :- Laundry Management System
+# 🧠 DAY-09 :- Laundry Management System
 A straightforward and efficient console-based application designed to manage laundry service registrations and logins. This project, available in C, showcases how to handle user data, perform file operations, and structure a practical application.
 
 ---
@@ -304,14 +304,45 @@ This repository contains the source code for a console-based laundry management 
 ## 🚀 Versions
 This project is available in three languages, each offering a unique perspective on building the same application:
 
-C Version
-This version uses a procedural approach with standard C libraries. It relies on structs to manage user data and standard file I/O (stdio.h) to read and write to a binary file, showcasing a clean and efficient C implementation.
+**C Version** - This version uses a procedural approach with standard C libraries. It relies on structs to manage user data and standard file I/O (stdio.h) to read and write to a binary file, showcasing a clean and efficient C implementation.
 
 ---
 
-🔧 How to Run
+## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
 For C: gcc Laundry-Management-System.c -o Laundry-Management-System && ./Laundry-Management-System
+
+
+---
+
+
+# 🧠 DAY-10 :- Smart Cab Allocation System
+A comprehensive console-based application that simulates a smart cab booking and management system. This project, available in C, demonstrates how to build a multi-user system with different roles (Admin and User), handle data persistence, and implement core business logic.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a smart cab allocation system. The application allows an administrator to add and manage cabs in the system, and it provides a platform for users to register, log in, and eventually book rides. It's an excellent project for showcasing skills in system design, data structures, and creating interactive, multi-functional applications.
+
+---
+
+## ✨ Features
+- Dual User Roles: Separate interfaces and functionalities for Admins (to manage cabs) and Users (to book rides).
+- Secure Authentication: A robust login and registration system for both admins and users. User passwords are automatically hashed for security.
+- Cab Management: Admins can add new cabs to the system, view the status of all cabs, and check their live locations.
+- User Management: Users can create an account and log in to access the system's features.
+- Clear Console Interface: A simple and intuitive menu-driven interface for easy navigation and use.
+
+---
+
+## 🚀 Versions
+This project is available in three languages, each offering a unique perspective on building the same system:
+
+**C Version** - This version uses a procedural approach with standard C libraries. It relies on structs to manage all data (cabs, users, admins) and functions to handle the system's logic, showcasing a clean and efficient C implementation of a complex system.
+
+## 🔧 How to Run
+Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For C: gcc Smart_Cab_Allocation_System.c -o Smart_Cab_Allocation_System && ./Smart_Cab_Allocation_System
 
 
 ---
